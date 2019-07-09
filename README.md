@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+print "just another repository"
